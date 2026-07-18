@@ -19,7 +19,7 @@ A personalized news briefing system that aggregates headlines from multiple glob
 ---
 
 ### 🤖 AI Personalized Landing Page Output
-![AI Output](images/ad_to_lp_chatoutput.png)
+![AI Output](images/ad_to_lp_chat_output.png)
 
 ---
 
