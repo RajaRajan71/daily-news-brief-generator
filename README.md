@@ -5,6 +5,24 @@ A personalized news briefing system that aggregates headlines from multiple glob
 ## 🚀 Deployed Application
 [👉 Click here to view the Live App](https://rajarajan71-daily-news-brief-generator-app-btq2ji.streamlit.app/)
 
+
+## 📸 Demo
+
+### 🏠 Home
+![Home](images/ad_to_lp_home.png)
+
+---
+
+### 📝 User Input
+![User Input](images/ad_to_lp_input.png)
+
+---
+
+### 🤖 AI Personalized Landing Page Output
+![AI Output](images/ad_to_lp_chatoutput.png)
+
+---
+
 ## 🛠️ Tech Stack
 - **Frontend:** Streamlit (Hosted on Community Cloud)
 - **News Source:** GNews (Aggregating from BBC, Reuters, The Verge, etc.)
