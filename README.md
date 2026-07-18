@@ -5,6 +5,39 @@ A personalized news briefing system that aggregates headlines from multiple glob
 ## 🚀 Deployed Application
 [👉 Click here to view the Live App](https://rajarajan71-daily-news-brief-generator-app-btq2ji.streamlit.app/)
 
+## 📸 Application Demo
+
+### 🏠 Home Page
+
+The landing page where users can browse the latest AI-powered news summaries and select their preferred news categories.
+
+![Home](images/ai_news_home.png)
+
+---
+
+### 💬 News Query & Category Selection
+
+Users choose their preferred news categories or topics to generate personalized AI-powered news briefs.
+
+![Chat Input](images/ai_news_chat_input.png)
+
+---
+
+### 🤖 AI News Summary Generation
+
+The application retrieves the latest headlines and generates concise, AI-powered summaries using transformer-based NLP models.
+
+![AI News Output](images/ai_news_output.png)
+
+---
+
+### 📰 Final Personalized News Brief
+
+Displays the complete AI-generated news briefing with summaries and links to the original news sources.
+
+![Final Output](images/ai_news_final.png)
+
+---
 
 ## 🛠️ Tech Stack
 - **Frontend:** Streamlit (Hosted on Community Cloud)
